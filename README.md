@@ -58,7 +58,7 @@ Create a new DivChart object with the necessary parameters and call the create m
 
 ## Examples
 
-![demo 3dmark](https://github.com/devstratum/divchart/blob/master/divchart-3dmark.png)
+![demo 3dmark](https://github.com/devstratum/divchart/blob/main/divchart-3dmark.png)
 
 ```html
 <div id="chart_01"></div>
@@ -137,7 +137,7 @@ Create a new DivChart object with the necessary parameters and call the create m
     });
 </script>
 ```
-![demo blender](https://github.com/devstratum/divchart/blob/master/divchart-blender.png)
+![demo blender](https://github.com/devstratum/divchart/blob/main/divchart-blender.png)
 
 ```html
 <div id="chart_02"></div>
@@ -204,7 +204,7 @@ Create a new DivChart object with the necessary parameters and call the create m
     });
 </script>
 ```
-![demo blender](https://github.com/devstratum/divchart/blob/master/divchart-cinebench.png)
+![demo blender](https://github.com/devstratum/divchart/blob/main/divchart-cinebench.png)
 
 ```html
 <div id="chart_03"></div>
@@ -292,7 +292,7 @@ Create a new DivChart object with the necessary parameters and call the create m
     });
 </script>
 ```
-![demo vray](https://github.com/devstratum/divchart/blob/master/divchart-vray.png)
+![demo vray](https://github.com/devstratum/divchart/blob/main/divchart-vray.png)
 
 ```html
 <div id="chart_04"></div>
