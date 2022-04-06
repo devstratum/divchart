@@ -346,6 +346,12 @@ Create a new DivChart object with the necessary parameters and call the create m
 
 ## Options
 
+**selector**
+
+* Type: string
+* Default: none
+* CSS block selector for output, for example: '.selector', '#chart'
+
 **theme**
 
 * Type: string
@@ -356,13 +362,13 @@ Create a new DivChart object with the necessary parameters and call the create m
 
 * Type: string
 * Default: none
-* Graph title
+* Chart title
 
 **description**
 
 * Type: string
 * Default: none
-* Graph description
+* Chart description
 
 **unit**
 
@@ -385,7 +391,7 @@ Create a new DivChart object with the necessary parameters and call the create m
 
 * Type: boolean
 * Default: false
-* Separating the output of graph rows, true or false
+* Separating the output of chart rows, true or false
 
 **labels**
 
@@ -396,7 +402,7 @@ Create a new DivChart object with the necessary parameters and call the create m
 **grid_wmax**
 * Type: int
 * Default: 0
-* Maximum range of graph grid units
+* Maximum range of chart grid units
 
 **grid_part**
 
@@ -408,13 +414,13 @@ Create a new DivChart object with the necessary parameters and call the create m
 
 * Type: object
 * Default: none
-* An object of points of different dimensions of the graph with the parameters of names and colors
+* An object of points of different dimensions of the chart with the parameters of names and colors
 
 **graphs**
 
 * Type: object
 * Default: none
-* Graph Row Object with Label, Colors and Value parameters
+* Chart Row Object with Label, Colors and Value parameters
 
 ## Info
 
