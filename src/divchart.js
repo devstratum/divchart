@@ -1,7 +1,7 @@
 /**
  * DivChart
  *
- * @version         1.0
+ * @version         1.1
  * @author          Sergey Osipov <info@devstratum.ru>
  * @website         https://devstratum.ru
  * @copyright       Copyright (c) 2022 Sergey Osipov. All Rights Reserved
@@ -83,7 +83,7 @@
 
         if (typeof options.selector === "string") {
             let container = document.querySelector(options.selector);
-            if (container) {
+            if (typeof container === 'object' && container !== null) {
                 container.innerHTML = output;
             }
         }
