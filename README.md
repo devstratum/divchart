@@ -424,12 +424,8 @@ Create a new DivChart object with the necessary parameters and call the create m
 
 ## Info
 
-Version: 1.0
-
-License: MIT License
-
-Author: Sergey Osipov
-
-Website: https://devstratum.ru
-
-Email: info@devstratum.ru
+Version: 1.1  
+License: MIT License  
+Author: Sergey Osipov  
+Website: https://devstratum.ru  
+Email: info@devstratum.ru  
