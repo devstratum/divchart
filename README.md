@@ -8,6 +8,12 @@ A simple JavaScript charts, graphs generator with output to html blocks.
 * Responsive design
 * Color theme: Light | Dark
 
+## Donate
+
+You can support the author's products and new projects
+
+* [Donate via CloudTips](https://pay.cloudtips.ru/p/1daecc1f)
+
 ## Usage
 
 Include local javascript and css files in html doc
