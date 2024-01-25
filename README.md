@@ -1,6 +1,6 @@
 # DivChart
 
-A simple JavaScript charts, graphs generator with output to html blocks.
+A simple JavaScript charts, graphs generator with output to html blocks
 
 ## Features
 
@@ -429,9 +429,12 @@ Create a new DivChart object with the necessary parameters and call the create m
 * Chart Row Object with Label, Colors and Value parameters
 
 ## Info
+```
+DivChart
+A simple JavaScript charts, graphs generator with output to html blocks
 
-Version: 1.1  
-License: MIT License  
-Author: Sergey Osipov  
-Website: https://devstratum.ru  
-Email: info@devstratum.ru  
+Version:   1.1
+License:   MIT License
+Author:    Sergey Osipov
+Website:   https://devstratum.ru
+Email:     info@devstratum.ru
